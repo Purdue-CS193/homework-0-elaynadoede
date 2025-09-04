@@ -1,5 +1,10 @@
+# Elayna Doede's First CS193 Homework
+My favorite things about CS193!! :)
+- The girls I've sat next to in class.
+- Step by Step explanations on using Github.
+
 ## Welcome to GitHub Pages
-# Test Edit
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
